@@ -38,3 +38,6 @@ We could infer the main problems that we could solve with predicting King County
 - Improve machine learning model using Polynomial Features
 - Improve machine learning model using Ridge/Lasso/Elasticnet
 - Create evalution matrix to determine the best machine learning model to predict King County House Price
+
+## Summary
+The best Machine Learning Model in this project to use to predict King County House Price is Ridge with Hyperparameter Tuning (alpha = 0.0001) with R2 score 0.80 and MAE score 103505
